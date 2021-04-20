@@ -16,11 +16,11 @@ If someone wants to download the RAW Atrial Fibrillation and Normal Sinus Rhythm
 
 ---
 
-If you want to ignore the signal processing steps and just directly view the LDA associated with our data:
+**If you want to ignore the signal processing steps and just directly view the LDA associated with our data:**
 
 (1) Download the signal.dat file. Contains a table of all relevant variables after parsing through the ECG data.
 
-(2) Run lines 238-316, ignore all previous lines of code.
+(2) Run lines 238-316 of the MainCode.mlx, ignore all previous lines of code.
 
 # File Description 
 
