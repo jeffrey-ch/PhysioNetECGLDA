@@ -9,5 +9,6 @@ Contributors: Jeffrey Chen, Oriana Molares, and Madison Otero
 The live script should be able to be run without any external changes. Attention should be noted that all files downloaded should be in the working directory to avoid any issues with pathing. If someone downlaods the RAW Atrial Fibrillation and Normal Sinus Rhythm Databases, the following steps needs to take place:
 
 (1) Unzip the database and put it in the AFRAW and NSRAW folders respectively
+
 (2) Ignore lines 28-38 
 
